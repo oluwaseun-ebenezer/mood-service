@@ -1,0 +1,6 @@
+mediapipe
+ultralytics
+# roboflow
+numpy
+flask
+flask_cors
