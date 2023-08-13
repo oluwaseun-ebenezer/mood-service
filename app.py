@@ -266,7 +266,7 @@ def create_video():
             return jsonify({
                 'status': "success",
                 'data': {
-                    'result': filename,
+                    'result': output_filename,
                     'sum_inference': 1000,
                     'engaged_percent': 1000,
                     'boredom_percent': 80,
